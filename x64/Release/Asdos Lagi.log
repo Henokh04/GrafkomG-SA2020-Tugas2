@@ -1,0 +1,14 @@
+﻿  TGS2_Asdos.cpp
+D:\Nguli'ahh\Grafika Kom\Asdos Lagi\Asdos Lagi\TGS2_Asdos.cpp(16,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Nguli'ahh\Grafika Kom\Asdos Lagi\Asdos Lagi\TGS2_Asdos.cpp(16,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Nguli'ahh\Grafika Kom\Asdos Lagi\Asdos Lagi\TGS2_Asdos.cpp(22,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Nguli'ahh\Grafika Kom\Asdos Lagi\Asdos Lagi\TGS2_Asdos.cpp(22,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Nguli'ahh\Grafika Kom\Asdos Lagi\Asdos Lagi\TGS2_Asdos.cpp(28,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Nguli'ahh\Grafika Kom\Asdos Lagi\Asdos Lagi\TGS2_Asdos.cpp(28,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Nguli'ahh\Grafika Kom\Asdos Lagi\Asdos Lagi\TGS2_Asdos.cpp(34,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Nguli'ahh\Grafika Kom\Asdos Lagi\Asdos Lagi\TGS2_Asdos.cpp(34,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Asdos Lagi.vcxproj -> D:\Nguli'ahh\Grafika Kom\Asdos Lagi\x64\Release\Asdos Lagi.exe
